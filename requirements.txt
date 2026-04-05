@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+ipython
+jupyterlab
+notebook
+gTTS
