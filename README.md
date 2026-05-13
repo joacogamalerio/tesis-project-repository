@@ -7,10 +7,9 @@ El trabajo estudia mecanismos de regularizacion estocastica en redes neuronales 
 ## Contenido
 
 - `main_protocol.ipynb`: protocolo experimental principal de clasificacion sobre MNIST. Incluye preparacion reproducible, definicion de arquitecturas, particion de datos, busqueda de hiperparametros y evaluacion final multisemilla.
-- `autoencoder_protocol.ipynb`: protocolo complementario con autoencoders densos para analizar cualitativamente representaciones internas, esparsidad representacional, coadaptacion y reconstrucciones.
+- `autoencoder_protocol.ipynb`: protocolo complementario con autoencoders para analizar cualitativamente representaciones internas, esparsidad representacional, coadaptacion y reconstrucciones.
 - `reconstruct_gridsearch_comparison_plots.ipynb`: reconstruccion de figuras comparativas de la busqueda de hiperparametros a partir de artefactos guardados.
 - `reconstruct_final_evaluation_plots.ipynb`: reconstruccion de figuras de evaluacion final a partir de corridas persistidas.
-- `mnist_training_local_jupyter.py`: script historico con logica de entrenamiento local.
 - `requirements.txt`: dependencias Python auxiliares. PyTorch y torchvision deben instalarse segun la plataforma disponible.
 - `docs/`: documentacion de soporte y copia del manuscrito de tesis.
 
