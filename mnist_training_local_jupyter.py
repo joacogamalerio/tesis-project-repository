@@ -1,9 +1,9 @@
 """
-Versión fase 1: notebook / script monolítico compatible con Google Colab y Jupyter local.
-- Mantiene el flujo actual
-- Evita dependencias obligatorias de Colab
-- Usa GPU local automáticamente si PyTorch la detecta
-- Guarda resultados en un directorio configurable
+Script de entrenamiento compatible con Google Colab y Jupyter local.
+
+- Evita dependencias obligatorias de Colab.
+- Usa GPU local automáticamente si PyTorch la detecta.
+- Guarda resultados en un directorio configurable.
 """
 
 # =========================
